@@ -20,7 +20,10 @@ There are many difficult cases involving two or more sentiment words being used 
     ii) Comparing your performance to an alternative model (you may choose a naïve approach to show the improvement obtained with your model from 2. 
           
     iii) Illustrating cases where it gives the incorrect result for unseen cases. 
-          
+
+## Dataset can be downloaded from: 
+https://www.kaggle.com/lakshmi25npathi/notebook
+
 ## Result and performance:
 Refer deeplearning.pdf file
 
