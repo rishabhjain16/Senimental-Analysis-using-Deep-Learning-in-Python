@@ -13,12 +13,14 @@ There are many difficult cases involving two or more sentiment words being used 
 3. Use TensorFlow to train on the data set and document your results. (40)
 4. Discuss the performance of your model. (30)
 
-    This could be achieved through:
-          i) Accuracy achieved – plots/tables of performance
+    This could be achieved through:    
           
-          ii) Comparing your performance to an alternative model (you may choose a naïve approach to show the improvement obtained with your model from 2. 
+    i) Accuracy achieved – plots/tables of performance
+        
+    ii) Comparing your performance to an alternative model (you may choose a naïve approach to show the improvement obtained with your model from 2. 
           
-          iii) Illustrating cases where it gives the incorrect result for unseen cases. 
+    iii) Illustrating cases where it gives the incorrect result for unseen cases. 
+          
 ## Result and performance:
 Refer deeplearning.pdf file
 
